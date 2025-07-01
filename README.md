@@ -53,4 +53,4 @@
 ### 📫 Connect With Me
 
 - [Email](mailto:fissehadesta70@gemail.com)
-- [LinkedIn](https://linkedin.com/in/fisiha_desta)
+- [LinkedIn](https://linkedin.com/in/fisiha-desta)
