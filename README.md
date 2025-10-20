@@ -1,20 +1,24 @@
-<h1 align="center">Hi there 👋, I'm Fisiha</h1>
+# Hi, I'm <b>Fish-dt</b> 👋
 
-<p align="center">
- 💻 Web Dev & Design Enthusiast
-</p>
-
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-</p>
+<b>Full Stack Developer & Product Designer</b>
 
 ---
+
+### <b>🛠️ Tech Stack</b>
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
+---
+
+### <b>🌐 Find Me Online</b>
+- [LinkedIn](https://www.linkedin.com/in/fisihadesta/)
+- [LeetCode](https://leetcode.com/u/5RplQdGbYZ/)
